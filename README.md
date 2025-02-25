@@ -52,9 +52,8 @@ The **Home Safety Monitoring System** is an IoT-based safety solution that detec
 - AI-based predictive analysis for hazardous conditions.
 - Mobile app enhancements for better user control.
 
-## Contributors
-- **Project Developed By:** [Your Name]
-- **Technologies Used:** IoT, Blynk, C++, Arduino IDE, ESP8266
+
+
 
 ---
 This system provides an efficient and real-time safety solution to prevent hazardous situations in homes and workplaces.
